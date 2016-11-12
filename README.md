@@ -5,7 +5,7 @@ Grab, transform, and deliver data.
 
 Strikebot is a `iPaaS` solution. It follows the Strategy Pattern to
 execute a series of `Steps`. These steps determine which `Adaptors` to
-invoke and what `Config` should be passed to them. The adapotors in
+invoke and what `Config` should be passed to them. The adaptors in
 turn do some `Job` for you. You can think of it as the linux
 command-line on steriods for the cloud.
 
