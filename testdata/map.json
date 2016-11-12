@@ -1,0 +1,22 @@
+{
+  "steps": [
+    {
+      "adaptor": "print",
+      "options": {
+        "message": "here to strike..."
+      }
+    },
+    {
+      "adaptor": "print",
+      "options": {
+        "message": "when you least expect it!"
+      }
+    },
+    {
+      "adaptor": "printy",
+      "options": {
+        "message": "when you least expect it!"
+      }
+    }
+  ]
+}
