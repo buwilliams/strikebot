@@ -32,6 +32,8 @@ instructions you supply in a config JSON file.
 - Allow for easy adaptor creation with a simple interface
 - Log all processing
 
+## Backlog
+
 ### Todo
 
 - begin to do something useful
