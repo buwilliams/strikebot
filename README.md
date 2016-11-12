@@ -4,8 +4,8 @@ Grab, transform, and deliver data.
 ## Overview
 
 Strikebot follows the Strategy Pattern to execute a series of steps. These steps
-contain information about which adaptors to invoke. The adapotors in turn do
-some of job for you.
+contain determine which adaptors to invoke and what config should be passed to
+them. The adapotors in turn do some job for you.
 
 For example, you might want to:
 1. Download some JSON from FTP
